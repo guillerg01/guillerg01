@@ -34,7 +34,7 @@ Soy un desarrollador web con un año de experiencia en React, el cual aprendí r
 <a href = 'https://www.facebook.com/profile.php?id=100013480143462'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/></a> 
 <a href = 'https://www.canva.com/design/DAFqEqgDF5c/7sEGnXtoUrGObIsymjpCyA/edit?utm_content=DAFqEqgDF5c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/guillerg01'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  <a><img width = '85px'  align= 'center' src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></a>
+  <a><img width = '100px'  align= 'center' src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></a>
 <br>
 <br>
   <br>
