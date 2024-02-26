@@ -19,7 +19,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <p>
-Soy un desarrollador web con un año de experiencia en React, el cual aprendí rápidamente gracias a mi pasión por el aprendizaje y la ayuda de amigos expertos. He realizado varios proyectos personales usando style components, tailwind css, hooks, usecontext, llamadas a servidores y apis. Me gusta estar informado, enfrentar retos y hacer las cosas bien. Tengo habilidades para crear módulos especializados, trabajar con calidad y cumplir plazos. </p>
+I am a web developer with a year of experience in React, which I learned quickly thanks to my passion for learning and the help of expert friends. I have skills to create specialized modules, work with quality and meet deadlines. </p>
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
