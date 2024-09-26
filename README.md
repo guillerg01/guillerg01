@@ -26,7 +26,7 @@ I am a web developer with a year of experience in React, which I learned quickly
 <a href= https://github.com/guillerg01> <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,docker,figma,github,html,js,materialui,nextjs,nodejs,react,redux,tailwind,ts,vscode&perline=14" /> </a>
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillerg01&show_icons=true&theme=transparent)
+
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <a  href = 'https://www.linkedin.com/in/guillerg01'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
