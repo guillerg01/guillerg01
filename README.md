@@ -19,7 +19,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <p>
-I am a web developer with a year of experience in React, which I learned quickly thanks to my passion for learning and the help of expert friends. I have skills to create specialized modules, work with quality and meet deadlines. </p>
+I am a web developer with two years of experience in React. I quickly learn React thanks to my passion for learning and the support of expert friends. I have skills in creating specialized modules, working with quality, and meeting deadlines. </p>
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
