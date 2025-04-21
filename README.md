@@ -36,10 +36,7 @@ I am a web developer with two years of experience in React. I quickly learn Reac
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guillerg01&theme=synthwave&hide_border=true&background=0D1117&ring=FF71CE&fire=05FFA1&currStreakLabel=B967FF" width="49%" />
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillerg01&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF71CE&text_color=B967FF" width="50%" />
-</div>
+
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e63eaef7-6be9-416c-81be-84fafe3b6083/21e54b3b-3bb6-48c0-883e-c68ab74b9711.png" /></a>
     
