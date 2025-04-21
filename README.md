@@ -41,7 +41,7 @@ I am a web developer with two years of experience in React. I quickly learn Reac
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillerg01&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF71CE&text_color=B967FF" width="50%" />
 </div>
   
-
+<figure><embed src="https://wakatime.com/share/@e63eaef7-6be9-416c-81be-84fafe3b6083/1e185927-a6b2-4bf0-8c4a-9ac7a0f716b8.svg"></embed></figure>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
