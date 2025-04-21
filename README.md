@@ -24,13 +24,13 @@ I am a web developer with two years of experience in React. I quickly learn Reac
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/guillerg01> <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,docker,figma,github,html,js,materialui,nextjs,nodejs,react,redux,tailwind,ts,vscode&perline=14" /> </a>
-
+<div align="center">
    [![wakatime](https://wakatime.com/badge/github/guillerg01/guillerg01.svg)](https://wakatime.com/badge/github/guillerg01/guillerg01)
   ![GitHub followers](https://img.shields.io/github/followers/guillerg01?style=flat&color=05FFA1)
   ![GitHub User's stars](https://img.shields.io/github/stars/guillerg01?style=flat&color=B967FF)
   ![Profile Views](https://komarev.com/ghpvc/?username=guillerg01&color=05FFA1&style=flat&label=VISITANTES)
 
-  
+  </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guillerg01&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF71CE&icon_color=05FFA1&text_color=B967FF" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guillerg01&theme=synthwave&hide_border=true&background=0D1117&ring=FF71CE&fire=05FFA1&currStreakLabel=B967FF" width="49%" />
@@ -41,7 +41,7 @@ I am a web developer with two years of experience in React. I quickly learn Reac
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillerg01&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF71CE&text_color=B967FF" width="50%" />
 </div>
   
-<figure><embed src="https://wakatime.com/share/@e63eaef7-6be9-416c-81be-84fafe3b6083/1e185927-a6b2-4bf0-8c4a-9ac7a0f716b8.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@e63eaef7-6be9-416c-81be-84fafe3b6083/1e185927-a6b2-4bf0-8c4a-9ac7a0f716b8.svg"></embed>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
