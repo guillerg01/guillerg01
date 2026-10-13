@@ -1,71 +1,77 @@
-<h1 align="center">Hi, I'm Guillermo 👋</h1>
-<h3 align="center">Senior Frontend Engineer · React · Next.js · TypeScript</h3>
+# Guillermo Enrique Rodríguez Galban
 
-<p align="center">
-  Building high-traffic SaaS platforms for 4+ years — multi-tenant dashboards, real-time UIs,
-  payment flows and Web3. <strong>7,500+ commits across 30+ production repositories.</strong>
-</p>
+### Senior Fullstack Engineer · TypeScript · React / Next.js · Node.js / NestJS
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/guillerg01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://my-portfolio-guillerg01.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-05122A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:guillerg0101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=guillerg01&color=05FFA1&style=for-the-badge&label=PROFILE+VIEWS"/>
-</p>
+I build end-to-end software for SaaS, real estate, healthcare, Web3 and mobile products. With more than four years of experience, I work across React, Next.js, React Native, Vue 3 and NestJS, connecting product requirements with maintainable architecture, reliable workflows and usable interfaces.
 
----
+My experience includes multi-tenant dashboards, payments, real-time messaging, geographic data, media storage, AI integrations and medical reporting. I work with distributed teams, contribute to technical and product decisions, build reusable components and communicate directly with clients.
 
-### 🚀 What I do
+[LinkedIn](https://www.linkedin.com/in/guillerg01/) · [GitHub](https://github.com/guillerg01) · [Email](mailto:guillerg0101@gmail.com)
 
-- **Frontend architecture at scale** — multi-tenant SaaS dashboards, micro-frontend patterns, design systems shared across 5+ products.
-- **Real-time & performance** — WebSocket leaderboards, virtualized tables/maps (1M+ records), LRU caching, optimistic updates with TanStack Query.
-- **Payments** — Stripe (3D Secure, subscriptions), PayPal, Bizum, Oxapay, FinCode across multiple countries.
-- **Web3** — wallet auth (Privy, MetaMask, WalletConnect), smart contracts, NFT minting, off-chain signing (ethers.js / viem).
-- **Healthcare** — frontend for a real DICOM/PACS medical imaging system.
+**Based in Cuba · Open to remote opportunities · Spanish native / English B2**
 
----
+## Engineering focus
 
-### 🛠️ Tech Stack
+- **Architecture:** clean and hexagonal architecture, domain modules, use cases, repository adapters, typed API contracts, reusable services and state machines. Practical use of Repository and Singleton patterns.
+- **Reliable workflows:** persistent queues, scheduled jobs, bounded batches, checkpoints, retries, cancellation, transactions and offline synchronization. I choose mechanisms according to the actual failure modes and deployment constraints.
+- **Frontend performance:** TanStack Query, optimistic updates with rollback, request cancellation, debounced filters, LRU caching and persistent IndexedDB caches with expiry and size limits.
+- **Product integrations:** payment subscriptions, Telegram bots, web chat, notifications, maps, scraping, wallet authentication and AI agents.
+- **Quality:** automated tests, accessibility, internationalization, structured logging, API documentation and CI/CD.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=react-query&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-![Ethers](https://img.shields.io/badge/ethers.js-2535A0?style=flat&logo=ethereum&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+## Selected product contributions
 
----
+These are contributions to client, team and personal projects; public repositories are linked separately below.
 
-### 📌 Featured Projects
+| Product | Engineering contributions |
+| --- | --- |
+| **Notbetting / Notbetting Admin** | Modular Next.js/TypeScript domains and Prisma/PostgreSQL. Persistent subscription queues coordinated by Vercel cron, resumable stages, bounded batches and error tracking. Transactional subscription rules, TS Pay HMAC-SHA256 callbacks, Oxapay flows, packs, coupons and PDF invoices. Telegram Bot API membership workflows, MTProto auditing scripts, Excel/CSV reporting, centralized email retries, session controls and incident notifications. |
+| **Cazarentas** | React/Next.js real-estate SaaS frontend: Google Maps with territorial GeoJSON loading, IndexedDB and LRU caches, batched property details and cancellation. Socket.IO user/AI chat with history, acknowledgments and reconnection handling. Stripe subscription interfaces, NextAuth/JWT access controls, optimistic updates, ROI/ROSE analysis and PDF reports. |
+| **Kaptalo** | Next.js/React visual editor with recursive components, undo/redo, rich text and page versioning. NestJS/TypeORM CMS and CRM modules, transactional organization/contact creation and identity-aware APIs. Property scraping with Cheerio, Axios and Scrape.do: portal adapters, asynchronous batches, checkpoints, deduplication and ingestion recovery. |
+| **AGL customer portals and CRMs** | Vue 3/Pinia/Vuetify/CASL portal with roles, workspaces, assistant configuration and communication interfaces. Nuxt 4/Vue 3 administration with configurable resources and reusable forms. React/Next.js CRM dashboards for contacts, leads, properties, pipelines, bookings and voice input. |
+| **Embeddable AI web chat / SalesMatrix** | Standalone HTML/CSS/JavaScript widget with communication, session, rendering and configuration modules; REST integration, history, themes and attachments. React appointment workflows, real-time chat state and configurable embed previews. |
+| **Medical Reporter — CESIM / UCI** | OHIF/Cornerstone/dcmjs reporting with clean/hexagonal boundaries, dynamic templates, measurements, rule-based narratives, DICOM SR and PDF/DOCX/data exports. Cryptographic signing with PKCS#12, PKIjs, ASN.1 and Web Crypto; embedded and detached CMS signatures, document verification and tamper-detection tests. |
+| **CodyHire — temporary contract, June–July 2026** | Next.js/NestJS/TypeORM platform: Clerk authentication, roles and ownership rules, project/task state machines, keyset pagination and SQL filtering. Atomic task completion, capacity and retainer summaries, scoped S3 uploads, response contracts, error logging and critical-flow tests. |
+| **PropertyGuard Mobile** | React Native/Expo and NestJS/Prisma inspection MVP: room-specific capture, multimodal Ollama analysis with structured output, maintenance tracking, notifications and PDF reports. |
+| **Cupet Watcher / Mobile** | Scheduled ingestion with PostgreSQL advisory locks, batch recovery, API backoff and cancellation. React Native/Expo Android integration with FCM, headless processing, Notifee foreground services and alert acknowledgments. |
+| **Neyvis CRM** | Astro public site and Next.js CRM with lead boards, contact timelines, calendar integrations and local offline queues with replay. Voice capture and Whisper transcription feeding structured workflows. |
+| **Ryze / Ryzu and Sakazuki** | Web3 product interfaces with Privy, ethers.js, wallet/network lifecycle handling, NFT minting flows, authorized S3 uploads and paginated catalogs. Fincode tokenization and 3D Secure payment interfaces. |
+| **Showcase and AGL SaaS** | Domain-oriented media, folder, playlist, device and scheduling interfaces; reusable API services, hooks, filters, pagination and administrative workflows. |
+| **Deep Research Agent** | LangGraph fan-out/fan-in workflows, bounded parallelism, provider routing, retries and checkpoint recovery. SQLite WAL/FTS5, Ollama embeddings and CLI/web session controls. |
+| **Temaria / SMS Gateway / Xnova** | Structured AI grading and appeals with Zod, local Whisper WASM workers; React Native Android SMS integration through Kotlin native modules; interactive 3D exploration with React Three Fiber, drei and Three.js. |
+| **Automation and financial modeling** | Python/Node market-data and news bots with indicators, persisted outcomes, backtesting and Telegram controls. Next.js business modeling with sales, expenses, stock, margin/ROI and Recharts. |
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**nest-backend-template**](https://github.com/guillerg01/nest-backend-template) | Production-ready NestJS backend — clean/hexagonal architecture, auth, RBAC, Prisma | NestJS · TS · Prisma · Docker |
-| [**nest-microservices-template**](https://github.com/guillerg01/nest-microservices-template) | Microservices backend — NATS + Nx, gateway + 4 services, Swagger, guided tour | NestJS · NATS · Nx |
-| [**phase_system_admin**](https://github.com/guillerg01/phase_system_admin) | Admin dashboard for an electromobility platform — exports, data tables | Next.js · TanStack Query |
-| [**cupet-watcher**](https://github.com/guillerg01/cupet-watcher) | Fuel-station watcher + analytics/prediction, email alerts | Next.js · TS · Automation |
-| [**flip-dynasty-usa**](https://github.com/guillerg01/flip-dynasty-usa) | Bilingual B2B corporate site for a US client | Next.js · i18n |
+## Technology toolbox
 
----
+| Area | Technologies |
+| --- | --- |
+| **Languages** | TypeScript, JavaScript, Python; Kotlin for Android integration |
+| **Web and mobile** | React, Next.js, React Native, Expo, Vue 3, Nuxt, Astro |
+| **State and UI** | TanStack Query, Pinia, Zustand, Redux, Tailwind CSS, MUI, Chakra UI, Vuetify, Radix/shadcn, React Hook Form, Formik, Zod, Yup, Tiptap, dnd-kit |
+| **Backend and data** | Node.js, NestJS, Prisma, TypeORM, PostgreSQL, SQLite, Redis, BullMQ, NATS, REST, OpenAPI/Swagger |
+| **Authentication and communication** | JWT/OAuth, NextAuth, Clerk, CASL, Socket.IO, Firebase Cloud Messaging, Telegram Bot API, MTProto |
+| **Payments and Web3** | Stripe, TS Pay, Oxapay, Fincode, Privy, ethers.js, BigNumber.js |
+| **AI and scraping** | LangChain, LangGraph, Ollama, embeddings, SQLite FTS5, Whisper, Web Workers, Cheerio, Axios, Scrape.do |
+| **Visualization and media** | Google Maps, GeoJSON, ApexCharts, Recharts, Three.js, React Three Fiber, S3 |
+| **Healthcare and signing** | DICOM SR, OHIF, Cornerstone3D, dcmjs, PKCS#12, CMS/PKCS#7, PKIjs, ASN.1, Web Crypto, SHA-256/RSA |
+| **Testing and delivery** | Jest, Vitest, Testing Library, Playwright, Git, Docker, CI/CD, Nx, Vite |
 
-### 📊 GitHub Stats
+## Public repositories
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guillerg01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillerg01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
+- [Nest backend template](https://github.com/guillerg01/nest-backend-template): modular NestJS foundation with TypeORM, authentication, optional Redis/BullMQ integrations, Stripe, S3, logging and Docker tooling.
+- [Nest microservices template](https://github.com/guillerg01/nest-microservices-template): Nx/NATS gateway and service structure with documented APIs.
+- [Cupet Watcher](https://github.com/guillerg01/cupet-watcher): scheduled monitoring and ingestion workflows.
+- [Temaria](https://github.com/guillerg01/temaria): AI-assisted learning and structured evaluation.
+- [Calculator Rentability](https://github.com/guillerg01/calculator-rentability): business data, local persistence and financial visualization.
+- [Trading bot](https://github.com/guillerg01/bot-trading): analysis and automation workflows.
 
----
+## Education
 
-<p align="center"><i>Open to remote roles · Open to relocation (EU) · 🌍 English (B2) / Spanish (native)</i></p>
+**University of Informatics Sciences (UCI), Havana, Cuba** — Informatics Engineering, October 2021–December 2024. Completed through demonstration of development, analysis, database and QA roles in real projects.
+
+Full Stack course — Tezlucan, Mexico, remote, 2023.
+
+## Let's connect
+
+Interested in remote Senior Fullstack roles involving SaaS architecture, React/Next.js, Node.js/NestJS, mobile applications or technically demanding product integrations.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/guillerg01/) or [email me](mailto:guillerg0101@gmail.com).
